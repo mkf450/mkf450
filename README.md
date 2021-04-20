@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Keenan 👋 
+Plz call me 'kinan' not 'ke-e-nan' 😄 
+___
+
+I am currently an undergraduate Computer Science student. I'm also a tech enthusiast and love to learn any 'tech' things especially in Web Development.
 
 <!--
 **mkf450/mkf450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
